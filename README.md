@@ -37,7 +37,7 @@ TeleScore is currently undergoing a full rewrite to fully utilize the flexible P
     Animations/Transitions
     OCR
     Improved editor: copy/paste/undo/redo
-    macOS/Linux
+    Linux
 
 ## How to build from source
 1. Make sure you have Python v3.11.1 installed.
@@ -48,3 +48,4 @@ TeleScore is currently undergoing a full rewrite to fully utilize the flexible P
 4. If no errors are shown, use "python src/main.py" to build the software
 ## JumpShot Team
 JumpShot team is composed of: riscyseven, TheLittleDoctor, Fisk31, controldelta, SPCcleveland9035, Glenn
+MacOS build made by dominicskywalkr
